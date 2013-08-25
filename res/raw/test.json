@@ -1,0 +1,10 @@
+[
+        {
+            "title" : "un titre",
+            "definition" : "Petit text de definition"
+        },
+        {
+            "title" : "un deuxième titre",
+            "definition" : "un deuxième text de définition"
+        }
+    ]
